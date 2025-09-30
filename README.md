@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # litverse
 
 A new Flutter project.
